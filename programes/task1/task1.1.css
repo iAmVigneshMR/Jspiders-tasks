@@ -1,0 +1,469 @@
+body,html
+{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+
+
+/* nav satarts */
+
+.img-nav
+{
+    background-image: url(https://cdn.pixabay.com/photo/2017/01/06/23/04/homberg-1959229__340.jpg);
+    width: 100%;
+    height: 633px;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -21px;
+}
+
+.container
+{
+    /* background-color:green; */
+    margin-top: 67px;
+    margin-left: 0px;
+}
+.nav-container li
+{
+    display: inline;
+    padding: 20px 5px 20px 42px;
+    font-size: 19px;
+    font-family: raleway;
+}
+.nav-container li a
+{
+    color: white;
+    text-decoration: none;
+    font-weight:bold;
+}
+.navc-fir
+{
+    text-decoration: none;
+    /* background-color: blue; */
+    /* margin-left: 0px; */
+    padding-right: 636px;
+    font-size: 19px;
+    font-family: raleway;
+    color: white;
+    font-weight: bolder;
+}
+.nav-middle
+{
+    /* background-color:blue; */
+    color: white;
+    margin-top: 200px;
+    width: 600px;
+    text-align: center;
+    margin-left: 371px;
+    font-size: 24px;
+    font-family: raleway;
+    font-weight: bold;
+}
+.nav-middle button
+{
+    color: white;
+    background-color: rgb(250, 34, 117);
+    font-size: 24px;
+    padding: 15px 25px 15px 35px;
+    /* border: 1px solid rgba(14, 13, 13, 0.938); */
+    border-radius: 7px;
+    /* font-family: raleway; */
+    font-weight: bolder;
+    margin: none;
+    border: none;
+    outline: none;
+}
+.nav-strip
+{
+    background-color: rgba(63, 61, 61, 0.938);
+    margin-top: 86px;
+    padding: 6px;
+}
+/* nav ends */
+
+
+
+
+/* maesenus luctus lectus content starts */
+
+.txt-context
+{
+    /* background-color: blue; */
+    width: 1350px;
+    top: 700px;
+    position: absolute;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-family: raleway;
+    font-weight: bolder;
+    display: inline;
+    padding-left: 171px;
+}
+.txt-content
+{
+    margin-left: 536px;
+    margin-top: -227px;
+    text-transform: none;
+    font-size: 19px;
+    font-family: raleway;
+    text-align: justify;
+    margin-right: 386px;
+}
+/* maesenus luctus lectus content ends */
+
+
+
+
+
+/* images content 2 start*/
+.img-contain1
+{
+    background-color: rgba(238, 236, 236, 0.993);
+    /* background-color: blue; */
+    width: 100%;
+    top: 1128px;
+    position: absolute;
+    height: 954px;
+}
+.img-context1
+{
+    text-transform: uppercase;
+    font-size: 24px;
+    font-family: raleway;
+    font-weight: bolder;
+    /* display: inline; */
+    padding-left: 31px;
+    text-align: center;
+    padding-top: 50px;
+}
+.img-con1
+{
+    margin-top: 60px;
+    margin-left: 41px;
+    /* border: 2px solid white; */
+    width: 580px;
+    height: 402px;
+}
+.img-img1
+{
+    background-image: url(https://cdn.pixabay.com/photo/2016/08/11/23/55/trees-1587301__340.jpg); 
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 580px;
+    height: 402px;
+}
+.img-img1 p
+{
+    /* background-color: red; */
+    margin-top: 400px;
+    text-transform: uppercase;
+    font-size: 19px;
+    font-family: raleway;
+    font-weight: bold;
+    padding: 38px;
+    border: 1px solid rgb(206, 201, 201);
+    border-top: none;
+}
+.img-con2
+{
+    margin-top: 4px;
+    margin-left: 632px;
+    /* border: 2px solid white; */
+    width: 580px;
+    height: 402px;
+}
+.img-img2
+{
+    background-image: url(https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704__340.jpg);
+    width: 580px;
+    height: 402px;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.img-img2 p
+{
+    /* background-color: red; */
+    margin-top: 400px;
+    text-transform: uppercase;
+    font-size: 19px;
+    font-family: raleway;
+    font-weight: bold;
+    padding: 38px;
+    border: 1px solid rgb(206, 201, 201);
+    border-top: none;
+}
+.img-button
+{
+    /* background-color: red; */
+    margin-top: 150px;
+    border-radius: 2px;
+    height: 80px;
+    width: 802px;
+    display: inline-block;
+}
+.img-button .btn-1
+{
+    color: white;
+    background-color: rgb(250, 34, 117);
+    font-size: 24px;
+    padding: 15px 25px 15px 35px;
+    /* border: 1px solid rgba(14, 13, 13, 0.938); */
+    border-radius: 5px;
+    /* font-family: raleway; */
+    font-weight: bolder;
+    margin: none;
+    border: none;
+    outline: none;
+    text-transform: uppercase;
+    margin-right: 44px;
+}
+.img-button .btn-2
+{
+    color: white;
+    background-color: rgba(3, 3, 3, 0.856);
+    font-size: 24px;
+    padding: 15px 25px 15px 35px;
+    /* border: 1px solid rgba(14, 13, 13, 0.938); */
+    border-radius: 5px;
+    /* font-family: raleway; */
+    font-weight: bolder;
+    margin: none;
+    border: none;
+    outline: none;
+    text-transform: uppercase;
+    margin-right: 13px;
+}
+/* images content 2 stop*/
+
+
+
+
+
+/* images content 3 start  */
+.img-container3
+{
+  width: 100%;
+  height: 736px;
+  /* background-color: blue; */
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 24px;
+  font-family: raleway;
+  position: absolute;
+  top: 2144px;
+}
+.img-content3
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 240px 240px;
+  margin-top: 39px;
+}
+.box-1
+{
+  /* background-color:red; */
+}
+.box-1 h4
+{
+  margin-right: -62px;
+}
+.box-1 p
+{
+  font-size: 19px;
+}
+.box1-content
+{
+  /* background-color: white; */
+  width: 450px;
+  text-transform: none;
+  text-align: right;
+  /* margin-right: 500px; */
+}
+.box1-img
+{
+  background-image: url(https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823__340.jpg);
+  /* border: 250px 250px; */
+  position: relative;
+  margin: 2px;
+  width: 139px;
+  height: 170px;
+  border-radius: 500px;
+  border: 7px solid rgba(221, 218, 218, 0.945);
+  margin-top: -190px;
+  margin-left: 458px;
+}
+.box-2
+{
+  /* background-color:green; */
+}
+.box-2 h4
+{
+  margin-right: -4px;
+}
+.box-2 p
+{
+  font-size: 19px;
+  padding-left: 45px;
+}
+.box2-content
+{
+  /* background-color: white; */
+  width: 450px;
+  text-transform: none;
+  text-align: left;
+  margin-left: 178px;
+  /* margin-right: 500px; */
+}
+.box2-img
+{
+  background-image: url(https://cdn.pixabay.com/photo/2018/06/09/17/25/avenue-3464777__340.jpg);
+  /* border: 250px 250px; */
+  position: relative;
+  margin: 2px;
+  width: 139px;
+  height: 170px;
+  border-radius: 500px;
+  border: 7px solid rgba(221, 218, 218, 0.945);
+  margin-top: -190px;
+  margin-left: 17px;
+}
+.box-3
+{
+  /* background-color:yellow; */
+}
+.box-3 h4
+{
+  margin-right: 6px;
+}
+.box-3 p
+{
+  font-size: 19px;
+  margin-right: 130px;
+}
+.box3-content
+{
+  /* background-color: white; */
+  width: 450px;
+  text-transform: none;
+  text-align: right;
+  /* margin-right: 500px; */
+  margin-left: 123px;
+}
+.box3-img
+{
+  background-image: url(https://cdn.pixabay.com/photo/2016/04/02/20/54/road-1303617__340.jpg);
+  /* border: 250px 250px; */
+  position: relative;
+  margin: 2px;
+  width: 139px;
+  height: 170px;
+  border-radius: 500px;
+  border: 7px solid rgba(221, 218, 218, 0.945);
+  margin-top: -190px;
+  margin-left: 458px;
+}
+.box-4
+{
+  /* background-color:orange; */
+}
+.box-4 h4
+{
+  margin-right: 34px;
+}
+.box-4 p
+{
+  font-size: 19px;
+  padding-left: 146px;
+}
+.box4-content
+{
+  /* background-color: white; */
+  width: 450px;
+  text-transform: none;
+  text-align: left;
+  margin-left: 82px;
+  /* margin-right: 500px; */
+}
+.box4-img
+{
+  background-image: url(https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-4322521__340.jpg);
+  /* border: 250px 250px; */
+  position: relative;
+  margin: 2px;
+  width: 139px;
+  height: 170px;
+  border-radius: 500px;
+  border: 7px solid rgba(221, 218, 218, 0.945);
+  margin-top: -190px;
+  margin-left: 17px;
+}
+
+
+/* images content 3 stop */
+
+
+
+
+/*  images content 4 starts */
+
+.img-container4
+{
+    background-image: url(https://cdn.pixabay.com/photo/2017/01/14/13/59/castelmezzano-1979546__340.jpg);
+    top: 2910px;
+    position: absolute;
+    width: 100%;
+    height: 387px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img-content4
+{
+    /* background-color:blue; */
+    color: white;
+    margin-top: 96px;
+    width: 700px;
+    text-align: center;
+    margin-left: 325px;
+    font-size: 24px;
+    font-family: raleway;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.btn4
+{
+    color: white;
+    background-color: rgb(250, 34, 117);
+    font-size: 24px;
+    padding: 15px 25px 15px 35px;
+    /* border: 1px solid rgba(14, 13, 13, 0.938); */
+    border-radius: 7px;
+    /* font-family: raleway; */
+    font-weight: bolder;
+    margin: none;
+    border: none;
+    outline: none;
+    text-transform: uppercase;
+}
+
+/*  images content 4 stop */
+
+
+
+/* footer starts  */
+.footer
+{
+    /* background-color:yellow; */
+    top: 3298px;
+    width: 100%;
+    position: absolute;
+    height: 300px;
+}
+
+/* footer stops */

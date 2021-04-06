@@ -1,0 +1,147 @@
+body,html
+{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+
+
+/* nav satarts */
+
+.img-nav2
+{
+    margin-left: 40px;
+    background-image: url(https://cdn.pixabay.com/photo/2016/03/09/15/20/road-1246601__340.jpg);
+    width: 93%;
+    height: 452px;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 37px;
+    border-radius: 5px;
+}
+
+.container
+{
+    /* background-color:green; */
+    margin-top: 30px;
+    margin-left: 0px;
+}
+.nav-container
+{
+    padding-bottom: 5px;
+}
+.nav-container li
+{
+    display: inline;
+    padding: 20px 5px 20px 42px;
+    font-size: 19px;
+    font-family: raleway;
+}
+.nav-container li a
+{
+    color: grey;
+    text-decoration: none;
+    font-weight:bold;
+}
+.navc-fir
+{
+    text-decoration: none;
+    /* background-color: blue; */
+    /* margin-left: 0px; */
+    padding-right: 636px;
+    font-size: 19px;
+    font-family: raleway;
+    color: grey;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.navc-fir span
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.nav-middle
+{
+    /* background-color: blue; */
+    color: grey;
+    margin-top: 74px;
+    width: 1022px;
+    text-align: center;
+    margin-left: 157px;
+    font-size: 24px;
+    font-family: raleway;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.nav-middle h1
+{
+    font-family: sans-serif;
+    color: rgba(5, 5, 5, 0.774);
+}
+/* nav ends */
+
+
+
+
+
+/* contents start */
+.txt-content
+{
+    /* font-family: raleway; */
+    color: grey;
+    font-size: 19px;
+    margin-top: 529px;
+    margin-left: 40px;
+    width: 93%;
+    text-align: justify;
+}
+
+/* contents stop */
+
+
+
+
+
+
+/* footer starts  */
+.footer
+{
+    /* background-color:yellow; */
+    top: 1300px;
+    width: 100%;
+    position: absolute;
+    height: 300px;
+    /* color: rgb(224, 32, 32); */
+}
+.fr-container
+{
+  margin-left: 411px;
+  margin-top: 112px;
+  text-indent: 64px;
+  font-size: 45px;
+}
+.fr-container i
+{
+  color: grey;
+}
+.fr-title p
+{
+  border-right: 1px solid grey;
+  text-transform: capitalize;
+  /* margin-top: 20px; */
+  margin-left: 10px;
+  /* text-indent: 20px; */
+  display: inline;
+  color: grey;
+  font-size: 19px;
+  /* background-color: red; */
+  width: 146px;
+  padding-right: 20px;
+}
+
+
+/* footer stops */

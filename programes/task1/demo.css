@@ -1,0 +1,164 @@
+body,html
+{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    width: 100%;
+}
+.img-container3
+{
+  width: 100%;
+  height: 736px;
+  /* background-color: blue; */
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 24px;
+  font-family: raleway;
+  position: absolute;
+}
+.img-content3
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 240px 240px;
+  margin-top: 39px;
+}
+.box-1
+{
+  /* background-color:red; */
+}
+.box-1 h4
+{
+  margin-right: -62px;
+}
+.box-1 p
+{
+  font-size: 19px;
+}
+.box1-content
+{
+  /* background-color: white; */
+  width: 450px;
+  text-transform: none;
+  text-align: right;
+  /* margin-right: 500px; */
+}
+.box1-img
+{
+  background-image: url(https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823__340.jpg);
+  /* border: 250px 250px; */
+  position: relative;
+  margin: 2px;
+  width: 139px;
+  height: 170px;
+  border-radius: 500px;
+  border: 7px solid rgba(221, 218, 218, 0.945);
+  margin-top: -190px;
+  margin-left: 458px;
+}
+.box-2
+{
+  /* background-color:green; */
+}
+.box-2 h4
+{
+  margin-right: -4px;
+}
+.box-2 p
+{
+  font-size: 19px;
+  padding-left: 45px;
+}
+.box2-content
+{
+  /* background-color: white; */
+  width: 450px;
+  text-transform: none;
+  text-align: left;
+  margin-left: 178px;
+  /* margin-right: 500px; */
+}
+.box2-img
+{
+  background-image: url(https://cdn.pixabay.com/photo/2018/06/09/17/25/avenue-3464777__340.jpg);
+  /* border: 250px 250px; */
+  position: relative;
+  margin: 2px;
+  width: 139px;
+  height: 170px;
+  border-radius: 500px;
+  border: 7px solid rgba(221, 218, 218, 0.945);
+  margin-top: -190px;
+  margin-left: 17px;
+}
+.box-3
+{
+  /* background-color:yellow; */
+}
+.box-3 h4
+{
+  margin-right: 6px;
+}
+.box-3 p
+{
+  font-size: 19px;
+  margin-right: 130px;
+}
+.box3-content
+{
+  /* background-color: white; */
+  width: 450px;
+  text-transform: none;
+  text-align: right;
+  /* margin-right: 500px; */
+  margin-left: 123px;
+}
+.box3-img
+{
+  background-image: url(https://cdn.pixabay.com/photo/2016/04/02/20/54/road-1303617__340.jpg);
+  /* border: 250px 250px; */
+  position: relative;
+  margin: 2px;
+  width: 139px;
+  height: 170px;
+  border-radius: 500px;
+  border: 7px solid rgba(221, 218, 218, 0.945);
+  margin-top: -190px;
+  margin-left: 458px;
+}
+.box-4
+{
+  /* background-color:orange; */
+}
+.box-4 h4
+{
+  margin-right: 34px;
+}
+.box-4 p
+{
+  font-size: 19px;
+  padding-left: 146px;
+}
+.box4-content
+{
+  /* background-color: white; */
+  width: 450px;
+  text-transform: none;
+  text-align: left;
+  margin-left: 82px;
+  /* margin-right: 500px; */
+}
+.box4-img
+{
+  background-image: url(https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-4322521__340.jpg);
+  /* border: 250px 250px; */
+  position: relative;
+  margin: 2px;
+  width: 139px;
+  height: 170px;
+  border-radius: 500px;
+  border: 7px solid rgba(221, 218, 218, 0.945);
+  margin-top: -190px;
+  margin-left: 17px;
+}
+
